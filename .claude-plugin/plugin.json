@@ -1,0 +1,13 @@
+{
+  "name": "oaa-skill",
+  "version": "0.1.0",
+  "description": "Guidance for structuring multi-agent systems the way companies are structured: agents fill roles, roles require skills, skills require tools, and bounded authority composes down the chain. One skill, plain Markdown, no scripts.",
+  "author": {
+    "name": "Charles Kosta",
+    "email": "dr.kosta@yahoo.com"
+  },
+  "homepage": "https://github.com/Chuck3PointZero/oaa-skill",
+  "repository": "https://github.com/Chuck3PointZero/oaa-skill",
+  "license": "MIT",
+  "keywords": ["multi-agent", "agent authority", "roles", "org chart", "oaa"]
+}
